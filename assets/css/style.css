@@ -24,6 +24,7 @@ header .seo {
     color: #d9dcd6;
 }
 
+/* Changed div to nav for navbar formatting. */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -86,6 +87,8 @@ p {
     background-color: #2589bd;
 }
 
+/* Consolidated .benefit-lead, brand, and so on to .benefit-section */
+
 .benefit-section {
     margin-bottom: 32px;
     color: #ffffff;
@@ -101,6 +104,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Consolidated .online-reputation-management, .social-media-marketing, and .search-engine-optimization to .article-content. */
 
 .article-content {
     margin-bottom: 20px;
@@ -119,6 +124,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* Changed .footer to footer. */
 
 footer {
     padding: 30px;
